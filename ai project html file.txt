@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Leukemia Awareness by Raghdah</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #840032;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    a.button {
+      display: inline-block;
+      padding: 12px 20px;
+      background-color: #840032;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    a.button:hover {
+      background-color: #a3003f;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Leukemia Awareness</h1>
+    <p>by Raghdah — Student, Future Medical Professional</p>
+  </header>
+
+  <main>
+    <h2>About This Project</h2>
+    <p>
+      This project was created to raise awareness about leukemia — a type of cancer that affects blood and bone marrow. As someone passionate about medicine, I built a small tool using artificial intelligence to help people learn more about leukemia and how detection works.
+    </p>
+
+    <h2>Try the Leukemia Detection App</h2>
+    <p>
+      I've created a simple AI-powered Gradio app that demonstrates how machine learning can support medical diagnostics.
+    </p>
+
+    <a class="button" href="https://huggingface.co/spaces/rmulla/InfoLabs_Leukemia_Detector">
+      Launch Leukemia Detection Tool 🚀
+    </a>
+
+    <h2>Why I Made This</h2>
+    <p>
+      I hope to pursue a career in medicine, and this project combines both my scientific curiosity and desire to help people. Technology can’t replace doctors, but it can empower them — and that’s what inspired this work.
+    </p>
+  </main>
+
+  <footer>
+    &copy; 2025 Raghdah | Made with 💻 & ❤️
+  </footer>
+
+</body>
+</html>
+
