@@ -61,9 +61,10 @@
       I've created a simple AI-powered Gradio app that demonstrates how machine learning can support medical diagnostics.
     </p>
 
-    <a class="button" href="https://huggingface.co/spaces/rmulla/InfoLabs_Leukemia_Detector">
-      Launch Leukemia Detection Tool 🚀
-    </a>
+    <iframe 
+  src="https://huggingface.co/spaces/rmulla/InfoLabs_Leukemia_Detector"
+  width="100%" height="600px" style="border:none; border-radius: 12px;">
+</iframe>
 
     <h2>Why I Made This</h2>
     <p>
@@ -77,4 +78,5 @@
 
 </body>
 </html>
+
 
